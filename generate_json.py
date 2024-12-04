@@ -6,6 +6,8 @@ from get_bundle_id import get_single_bundle_id
 import os
 import shutil
 
+REPO_NAME = "apptesters-org/AppTesters_Repo"
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -28,8 +30,7 @@ if __name__ == "__main__":
     data["apps"] = []
 
     g = Github(token)
-    repo_name = "apptesters-org/Repo"
-    repo = g.get_repo(repo_name)
+    repo = g.get_repo(REPO_NAME)
     releases = repo.get_releases()
 
     for release in releases:
@@ -77,8 +78,8 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": tweaks,
-                    "icon": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{info["bundle"]}.png",
-                    "iconURL": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{info["bundle"]}.png"
+                    "icon": f"https://raw.githubusercontent.com/{REPO_NAME}/main/icons/{info["bundle"]}.png",
+                    "iconURL": f"https://raw.githubusercontent.com/{REPO_NAME}/main/icons/{info["bundle"]}.png"
                 })
             else:
                 data["apps"].append({
