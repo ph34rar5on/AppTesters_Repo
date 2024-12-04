@@ -28,7 +28,7 @@ if __name__ == "__main__":
     data["apps"] = []
 
     g = Github(token)
-    repo_name = "apptesters-org/Repo"
+    repo_name = "apptesters-org/AppTesters_Repo"
     repo = g.get_repo(repo_name)
     releases = repo.get_releases()
 
@@ -84,8 +84,8 @@ if __name__ == "__main__":
                 data["apps"].append({
                     "name": app_name,
                     "type": 5,  # type: dylib
-                    "bundleId": f"org.apptesters.repo.{app_name.lower()}",
-                    "bundleIdentifier": f"org.apptesters.repo.{app_name.lower()}",
+                    "bundleId": f"org.apptesters.repository.{app_name.lower()}",
+                    "bundleIdentifier": f"org.apptesters.repository.{app_name.lower()}",
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
