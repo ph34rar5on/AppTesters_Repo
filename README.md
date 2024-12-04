@@ -6,7 +6,6 @@ AppTesters IPA provides a streamlined solution for managing and accessing IPA fi
 
 ## Key Features
 
-- **Automated Workflows**: Automatically create releases based on schedule or events.
 - **Lifetime Apple Signing Certificates**: Purchase a certificate and enjoy unlimited app installations without needing a laptop at **Website**: [https://apptesters.org/purchase-certificate](https://apptesters.org/purchase-certificate).
 - **Daily Updated IPA Library**: Access the largest collection of clean, modified IPAs.
   
