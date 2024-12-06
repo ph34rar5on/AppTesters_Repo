@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Unzip",
+            "type": 1,
+            "bundleID": "com.cuilingshi.fileextract",
+            "bundleIdentifier": "com.cuilingshi.fileextract",
+            "version": "5.2",
+            "versionDate": "2024-12-06",
+            "fullDate": "20241206222853",
+            "size": 43142039,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Unzip_5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Unzip_5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png"
+        },
+        {
             "name": "Epik",
             "type": 1,
             "bundleID": "com.snowcorp.epik",
