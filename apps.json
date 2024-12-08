@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Messenger",
+            "type": 1,
+            "bundleID": "com.facebook.Messenger",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "version": "486.0.0",
+            "versionDate": "2024-12-08",
+            "fullDate": "20241208005539",
+            "size": 67797125,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Messenger_486.0.0_SNMessenger_1.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Messenger_486.0.0_SNMessenger_1.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with SNMessenger 1.0.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png"
+        },
+        {
             "name": "Jujutsuphanpara",
             "type": 2,
             "bundleID": "com.bilibilihk.jujutsuphanparaios",
@@ -115,10 +131,10 @@
             "versionDate": "2024-12-08",
             "fullDate": "20241208003815",
             "size": 186490813,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage.Multiplier_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage.Multiplier_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage_Multiplier_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage_Multiplier_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with Damage.Multiplier",
+            "localizedDescription": "Injected with Damage Multiplier",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png"
         },
