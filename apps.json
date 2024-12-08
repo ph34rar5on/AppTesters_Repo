@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "PowerThesaurus",
+            "type": 1,
+            "bundleID": "org.powerthesaurus.powerthesaurus",
+            "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
+            "version": "2.6.4",
+            "versionDate": "2024-12-08",
+            "fullDate": "20241208001422",
+            "size": 8367831,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/PowerThesaurus_2.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/PowerThesaurus_2.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png"
+        },
+        {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "307.3",
+            "versionDate": "2024-12-08",
+            "fullDate": "20241208001406",
+            "size": 119355634,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Headway_307.3_Subscription_Unlocke_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Headway_307.3_Subscription_Unlocke_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocke",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
