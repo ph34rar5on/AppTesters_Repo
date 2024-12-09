@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Truecaller",
+            "type": 1,
+            "bundleID": "com.truesoftware.TrueCallerOther",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "version": "13.23.5",
+            "versionDate": "2024-12-09",
+            "fullDate": "20241209162618",
+            "size": 106115841,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Truecaller_13.23.5_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Truecaller_13.23.5_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png"
+        },
+        {
+            "name": "Myfitnesspal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "24.47.1",
+            "versionDate": "2024-12-09",
+            "fullDate": "20241209162602",
+            "size": 87719249,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Myfitnesspal_24.47.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Myfitnesspal_24.47.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "WeatherLive",
             "type": 1,
             "bundleID": "com.apalonapps.wlf",
@@ -153,22 +185,6 @@
             "localizedDescription": "Injected with Subscription Unlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
-        },
-        {
-            "name": "Truecaller",
-            "type": 1,
-            "bundleID": "com.truesoftware.TrueCallerOther",
-            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-            "version": "13.23.5",
-            "versionDate": "2024-12-09",
-            "fullDate": "20241209161933",
-            "size": 106121658,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Truecaller_13.23.5_Gold_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Truecaller_13.23.5_Gold_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Gold",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png"
         },
         {
             "name": "SwiftyCompiler",
