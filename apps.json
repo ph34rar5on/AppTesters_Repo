@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "type": 1,
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "24.25.5",
+            "versionDate": "2024-12-12",
+            "fullDate": "20241212011734",
+            "size": 118002179,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2024/WhatsApp_24.25.5_Watusi_1.2.44_Stalky_OnlineNotify_ContactSync_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2024/WhatsApp_24.25.5_Watusi_1.2.44_Stalky_OnlineNotify_ContactSync_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.44 Stalky OnlineNotify ContactSync",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Spotify",
             "type": 1,
             "bundleID": "com.spotify.client",
@@ -1035,7 +1051,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
         },
         {
-            "name": "Instaregram",
+            "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
             "bundleIdentifier": "com.burbn.instagram",
@@ -1043,8 +1059,8 @@
             "versionDate": "2024-12-10",
             "fullDate": "20241210152448",
             "size": 170659470,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-12-2024/Instaregram_359.0.0_RegramB18_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-12-2024/Instaregram_359.0.0_RegramB18_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-12-2024/Instagram_359.0.0_RegramB18_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-12-2024/Instagram_359.0.0_RegramB18_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with RegramB18",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
