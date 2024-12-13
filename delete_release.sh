@@ -5,7 +5,7 @@ owner="apptesters-org"
 repo="Repo"
 
 # GitHub personal access token
-token="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"
+token="_"
 
 # Define the date pattern according to month
 date_pattern="-03-2024"
