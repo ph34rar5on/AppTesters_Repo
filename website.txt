@@ -1,5 +1,7 @@
 Visit our website: https://www.apptesters.org
 
+Repo URL: https://repository.apptesters.org
+
 Repo Maintainers: 
 
 1. AppTesters:
