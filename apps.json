@@ -11,18 +11,18 @@
     },
     "apps": [
         {
-            "name": "WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky",
+            "name": "WhatsApp",
             "type": 1,
             "bundleID": "net.whatsapp.WhatsApp",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "version": "Unknown",
+            "version": "25.2.82",
             "versionDate": "2025-02-06",
             "fullDate": "20250206191009",
             "size": 113609661,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2025/WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2025/WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2025/WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2025/WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with Watusi OnlineNotify Stalky",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png"
         },
