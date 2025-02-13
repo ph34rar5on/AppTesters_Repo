@@ -41,3 +41,7 @@ Email: dmca@apptesters.org
 	5. Your electronic or physical signature.
 
 We will respond promptly to remove or disable access to the allegedly infringing material and will notify the affected user, if applicable.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=apptesters-org/AppTesters_repo&type=Date)](https://star-history.com/#apptesters-org/AppTesters_repo&Date)
