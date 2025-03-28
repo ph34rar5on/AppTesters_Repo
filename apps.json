@@ -59,7 +59,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
         },
         {
-            "name": "whatsapp",
+            "name": "Whatsapp",
             "type": 1,
             "bundleID": "net.whatsapp.WhatsApp",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
@@ -67,8 +67,8 @@
             "versionDate": "2025-03-28",
             "fullDate": "20250328083450",
             "size": 116486011,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/whatsapp_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/whatsapp_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Whatsapp_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Whatsapp_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Watusi",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
@@ -171,7 +171,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
         },
         {
-            "name": "Eeveespotify",
+            "name": "Spotify",
             "type": 1,
             "bundleID": "com.spotify.client",
             "bundleIdentifier": "com.spotify.client",
@@ -179,8 +179,8 @@
             "versionDate": "2025-03-28",
             "fullDate": "20250328083119",
             "size": 80481153,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Eeveespotify_9.0.30_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Eeveespotify_9.0.30_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Spotify_9.0.30_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Spotify_9.0.30_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with EeveeSpotify",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
@@ -267,7 +267,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png"
         },
         {
-            "name": "waBusiness",
+            "name": "WABusiness",
             "type": 1,
             "bundleID": "net.whatsapp.WhatsAppSMB",
             "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
@@ -275,8 +275,8 @@
             "versionDate": "2025-03-28",
             "fullDate": "20250328082819",
             "size": 123379398,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/waBusiness_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/waBusiness_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/WABusiness_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/WABusiness_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Watusi",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
